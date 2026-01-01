@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Amaka",
+    "services": "Empeereza",
+    "about": "Ebikwata ku",
+    "contact": "Tusisinkane"
+  },
+  "hero": {
+    "title": "Okuwonya kwa Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula musawo w'obuwangwa omumanyifu era omulogo, awa eddagala ly'obutonde n'okubuulirira okw'omwoyo mu Africa yonna n'ewala okugonjoola okusoomooza kw'obulamu.",
+    "cta": "Funa Obuyambi"
+  },
+  "services": {
+    "title": "Empeereza z'Okuwonya kw'Omwoyo",
+    "traditional": {
+      "title": "Okuwonya kw'Obuwangwa n'Obulogo",
+      "description": "Jajja Salongo Ndawula awa okuwonya kw'obuwangwa okw'amaanyi n'obulogo ku kusoomooza okw'enjawulo okw'obulamu."
+    },
+    "love": {
+      "title": "Obulogo bw'Okwagala",
+      "description": "Lowooza ku bulogo bw'okwagala obuyinza okukomyawo omwagalwa wo ow'edda mu ssaawa ntono. Gezaako obulogo bw'okwagala bwa Jajja Salongo Ndawula"
+    },
+    "psychic": {
+      "title": "Okusoma Ebirowoozo",
+      "description": "Ggulawo ebyama by'edda, kati n'ebijja ng'oyita mu kusoma ebirowoozo, funa okutegeera ku mbeera enzibu gy'oyinza okusanga"
+    }
+  },
+  "common": {
+    "loading": "Kitegeka...",
+    "error": "Waliwo ekizibu",
+    "retry": "Ddamu okugezaako"
+  },
+  "footer": {
+    "contact": "Okukwatagana",
+    "socials": "Emikutu gy'Abantu",
+    "helpButton": "Weetaaga Obuyambi? Yogera naffe",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Eddembe lyonna liriko."
+  },
+  "gallery": {
+    "title": "Ekifaananyi ky'Okuwonya",
+    "description": "Kebera enkola z'okuwonya ez'obuwangwa n'amagezi ag'omwoyo ga Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Eddoboozi ly'Abakasitoma",
+    "quote": "Obulogo bwa Jajja Salongo Ndawula bwakyusa obulamu bwange. Nafuna omwagalwa gwange eyali azze era ne nfuna okuwonya okutali kwa bulijjo. Mazima muganga wa mazima era w'amaanyi mangi!"
+  },
+  "servicesPage": {
+    "title": "Obuweereza bw'Okuwonya kw'Omwoyo",
+    "description": "Jajja Salongo Ndawula awa obulogo obw'amaanyi n'eddagala ly'obutonde ku kwagala, okukuuma, n'obuwanguzi.",
+    "services": {
+      "spellCasting": {
+        "title": "Obulogo obw'Obukugu",
+        "description": "Okuwonya kw'obuwangwa n'obulogo ng'okozesa eddagala ly'obutonde okukola ku kwagala, okukuuma, n'obuwanguzi mu Afrika y'Ebuvanjuba, Wakati, ne Maserengeta, n'ebirala."
+      },
+      "businessSuccess": {
+        "title": "Omukolo gw'Obuwanguzi mu Bizinensi",
+        "description": "Situla bizinensi yo ku mitendera emipya. Sikiriza abaguzi, yongera amagoba, era oyambe emirimu gyo okuguma mu butale obw'okuvuganya."
+      },
+      "protection": {
+        "title": "Obulogo bw'Amaanyi ag'Okukuuma",
+        "description": "Goba amaanyi amabi, weekuume okuva mu bulabe, era menya ebikolimo okukakasa embeera ennungi era entuufu gye woli n'abo b'oyagala."
+      },
+      "healing": {
+        "title": "Okuwonya kw'Omwoyo",
+        "description": "Eddagala ly'obutonde ery'amaanyi n'okubuulirirwa okw'obuntu ku bizibu by'obulamu eby'enjawulo."
+      }
+    },
+    "cta": {
+      "title": "Oli Mwetegefu Okukyusa Obulamu Bwo?",
+      "description": "Tukolagane ku kuwonya kw'obuwangwa okwa mazima, obulogo obw'obukugu, n'okubuulirirwa kw'omwoyo okw'obuntu.",
+      "button": "Yogera ku WhatsApp"
+    },
+    "contact": {
+      "email": "Emeyilo",
+      "phone": "Essimu / WhatsApp",
+      "hours": "Essaawa",
+      "hoursValue": "9am – 6pm"
+    }
+  },
+  "contactPage": {
+    "title": "Tukolagane",
+    "description": "Kolagana ne Jajja Salongo Ndawula ku bubuulirizi bw'omwoyo, obuweereza bw'okuwonya, n'okubuulirirwa okw'obuntu.",
+    "formTitle": "Tutumire Obubaka"
+  },
+  "aboutPage": {
+    "title": "Ebikwata ku",
+    "subtitle": "Okuwonya kwa Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula muganga w'obuwangwa omumanyifu, awa ebyokugonjoolamu by'omwoyo eby'amaanyi n'eddagala ly'obutonde mu Afrika, Amerika, Bungereza, Australia, ne Asia.",
+    "learnMore": "Yiga Ebisingawo",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Muganga w'obuwangwa era omulaguzi awa eddagala ly'obutonde ku bizibu by'obulamu eby'enjawulo.",
+    "servicesTitle": "Obuweereza Bwaffe",
+    "services": {
+      "healing": {
+        "title": "Okuwonya n'Okubuulirira",
+        "description": "Tuwa obulogo bw'okwagala, okusoma ebirowoozo, n'emikolo gy'okukuuma okuzzaamu obwenkanya."
+      },
+      "global": {
+        "title": "Okutuuka Awonna",
+        "description": "Tuweereza bakasitoma mu Afrika, Amerika, Bungereza, Australia, ne Asia n'ebyokugonjoolamu by'omwoyo eby'amaanyi."
+      }
+    },
+    "testimonialsTitle": "Endowooza z'Abakasitoma",
+    "testimonials": {
+      "sarah": "Obulogo bwa Jajja Salongo Ndawula bwakyusa obulamu bwange; nafuna okwagala n'obuwanguzi okusinga bye nnali nsuubira.",
+      "michael": "Okusoma ebirowoozo kwali kwa mazima era kwa magezi, ne kunkulembera mu biseera ebizibu."
+    },
+    "contact": {
+      "email": "Emeyilo",
+      "phone": "Essimu / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Engeri z'Edda ez'Okuwonya mu Africa",
+    "subtitle": "Emyaka 48 egy'Amagezi g'Omwoyo n'Obuwangwa bw'Obuganda",
+    "introduction": "Okumala emyaka 48 egiyise, Jaja Salongo Ndaula abadde alina omugaso munene mu kuwa amagezi g'omwoyo, okutegeera, n'okuzuukusa obuwangwa obw'enjawulo obw'Africa nga ayita mu kuwonya kw'edda n'okukola obulogo.",
+    "sections": {
+      "oldWays": {
+        "title": "Engeri z'Edda ez'Okuwonya mu Africa",
+        "content": "Engeri z'edda ez'okuwonya eza Bantu ne Bachwezi nkola nzibu erimu obulamu bw'omubiri n'emirembe gy'omwoyo. Engeri zino z'edda zibadde zisigibwa okuva mu biseera okutuuka mu biseera."
+      },
+      "origin": {
+        "title": "Ensibuko n'Obukulu bw'Obuwangwa",
+        "content": "Engeri z'okuwonya ez'edda eza Bantu zirina emirandira gyazo okuva mu bukiikaddyo bw'eggwanga ly'Africa erina enkola y'omwoyo n'ekitundu ekinene ku bitundu by'Africa. Jaja Salongo Ndaula alina omugaso munene mu kuzuula n'okuwonya nga ayita mu mirimu gye gy'omwoyo n'amaanyi ge ag'obwongo n'okukola obulogo bw'Africa."
+      },
+      "knowledge": {
+        "title": "Amagezi g'Emirembe n'Okutegeera",
+        "content": "Abasawo b'edda / ab'obuwangwa balina omugaso munene mu kuluŋŋamya emirembe emito okukuuma emirimu nga gisigadde nga gituukirivu era nga gitukuvu. Kino kibadde kiyambye okusomesa emirembe emito ku mirimu gy'obuwangwa, okwolesa, okuwaayo, okussaddaaka n'okutegeera obutonde n'ensi.",
+        "additional": "Mu biseera ebisinga bayitibwa mu Africa ng'abasawo (Jaja), abakkiriza nti omubiri gw'omuntu n'ensi y'emyoyo birina enkwatagana. Emikolo gikolebwa okuwuliziganya wakati w'abalamu n'emyoyo nga bayitamu ku mirimu gy'edda egy'Africa ng'obulogo bw'omwezi ogujjuvu n'emirimu gy'okuwonya egy'Africa."
+      },
+      "services": {
+        "title": "Obuweereza Obuweebwa",
+        "subtitle": "Okwagala okutumbula ebitundu by'obulamu eby'enjawulo kutwaliddemu ttiimu yaffe okukola bino byonna:",
+        "love": {
+          "title": "Obulogo bw'Okwagala n'Enkolagana",
+          "items": ["Okusikiriza", "Okwagalibwa", "Okuweebwa", "Omukisa Omulungi"]
+        },
+        "cleansing": {
+          "title": "Emikolo gy'Okulongoosa n'Okuwaayo",
+          "content": "Kino kitundu kikulu eky'obuweereza bw'okuwonya ekiruubirira okuggyawo amaanyi amabi, emyoyo emibi, nga tukozesa ebirime by'Africa n'emiti. Emirimu gino gilongoosa omutwe, omubiri n'omwoyo."
+        },
+        "protection": {
+          "title": "Obulogo bw'Okukuuma"
+        },
+        "health": {
+          "title": "Eddagala ly'Obulamu n'Obuwanguzi",
+          "content": "Ttiimu yaffe eruubirira okusinga obulungi bw'Abakasitoma baayo nga ekozesa ebintu eby'obutonde, eby'obutonde era n'ebyokulabirako eby'obutonde okuva mu bifo ng'ensibuko ya Nile (Bujagali Falls) amazzi n'ebyokulabirako by'emiti eby'obutonde."
+        },
+        "ancestral": {
+          "title": "Enkolagana n'Emyoyo gy'Abajjajja",
+          "content": "Nga bayita mu kusaba, okusiiba n'emikolo, banoonya amagezi gaabwe n'okuyingira mu biseera eby'obwetaavu, ekissa essira ku kuleeta emirembe, okuwonya n'obwenkanya mu bulamu bw'omuntu."
+        }
+      },
+      "divineHealing": {
+        "title": "Engeri z'Okuwonya ez'Obutukuvu",
+        "content": "Ekitundu kino eky'okuwonya kw'edda ekw'Africa kisobozesa omusawo okufuna okutegeera ku nsonga z'ebizibu n'ebiva mu kweyingira kwabwe ng'ebirowoozo bino:",
+        "techniques": ["Okusoma Obulogo bw'Obutukuvu n'Ettabaaza", "Okunaaba Omunnyo n'Omugga", "Okufumiitiriza n'okwegendereza"]
+      },
+      "personalizedTreatment": {
+        "title": "Enteekateeka z'Obujjanjabi Obw'Obuntu",
+        "content": "Oluvannyuma lw'okwekenneenya okw'olubereberye, omusawo waffe ajja kutondawo enteekateeka y'obujjanjabi ey'obuntu etuukana n'ebyetaago byo eby'enjawulo. Ebyo biyinza okubamo: emikolo gy'edda, eddagala ly'ebirime, okuluŋŋamya kw'omwoyo."
+      },
+      "remoteHealing": {
+        "title": "Ebyokulabirako by'Okuwonya okuva Ewala n'Okwolekagana",
+        "content": "Omusawo waffe awa ebyokulabirako by'okuwonya okuva ewala n'okwolekagana okusinziira ku buwangwa n'embeera. Oba onoonya okuluŋŋamyibwa okuva ewala oba ng'owolekagana, twewaadde okuwa obuyambi obw'amaanyi."
+      },
+      "followUp": {
+        "title": "Obuyambi bw'Okugoberera n'Okuluŋŋamya",
+        "content": "Oluvannyuma lw'okwebuuza okw'olubereberye n'enteekateeka y'obujjanjabi, omusawo w'Ettiimu yaffe awa obuyambi n'okuluŋŋamya okugenda mu maaso. Obuyambi bw'okugoberera n'okuluŋŋamya okukakasa nti oli mu kkubo ly'okuwonya. Kino kijja kuba kiriko okukeberera buli kiseera n'empuliziganya, n'okukyalira ebbifo."
+      }
+    },
+    "conclusion": {
+      "title": "Okumaliriza",
+      "content": "Omuntu yenna anoonya amaklasi amalala n'emirimu, okuwonya n'obuweereza bw'okuzuukusa, asobola okutuukirira ttiimu yaffe ey'obumanyirivu ejja kusanyuka okuwa okuluŋŋamya n'obuyambi obw'ekikugu, obw'obukuumi era obw'obuntu okutali nga tufudde ku buzibu bwo obw'ensimbi."
+    },
+    "contactCta": "Tutuukirire ku Buweereza bw'Okuwonya"
+  }
+}

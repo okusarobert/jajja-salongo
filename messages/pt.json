@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Início",
+    "services": "Serviços",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Jajja Salongo Ndawula Cura",
+    "description": "Jajja Salongo Ndawula é um renomado curandeiro tradicional e feiticeiro, oferecendo remédios naturais e orientação espiritual em toda a África e além para resolver os desafios da vida.",
+    "cta": "Obter Ajuda"
+  },
+  "services": {
+    "title": "Serviços de Cura Espiritual",
+    "traditional": {
+      "title": "Cura Tradicional e Feitiçaria",
+      "description": "Jajja Salongo Ndawula oferece cura tradicional poderosa e feitiçaria para vários desafios da vida."
+    },
+    "love": {
+      "title": "Feitiços de Amor",
+      "description": "Imagine um feitiço de amor que poderia trazer de volta seu ex-namorado ou ex-namorada em apenas algumas horas. Experimente os feitiços de amor de Jajja Salongo Ndawula"
+    },
+    "psychic": {
+      "title": "Leitura Psíquica",
+      "description": "Desvende os mistérios do passado, presente e futuro através da leitura psíquica, obtenha insights sobre situações perturbadoras que você pode estar enfrentando"
+    }
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "retry": "Tentar novamente"
+  },
+  "footer": {
+    "contact": "Contato",
+    "socials": "Redes Sociais",
+    "helpButton": "Precisa de ajuda? Converse conosco",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Todos os direitos reservados."
+  },
+  "gallery": {
+    "title": "Galeria de Cura",
+    "description": "Explore as práticas de cura tradicional e sabedoria espiritual de Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Depoimentos de Clientes",
+    "quote": "Os feitiços de Jajja Salongo Ndawula transformaram minha vida. Recuperei meu amor perdido e experimentei cura além da crença. Verdadeiramente um curandeiro talentoso e presença poderosa!"
+  },
+  "servicesPage": {
+    "title": "Serviços de Cura Espiritual",
+    "description": "Jajja Salongo Ndawula oferece feitiços poderosos e remédios naturais para amor, proteção e sucesso.",
+    "services": {
+      "spellCasting": {
+        "title": "Feitiçaria Eficaz",
+        "description": "Cura tradicional e feitiçaria usando remédios naturais para amor, proteção e sucesso no Leste, Centro e Sul da África e além."
+      },
+      "businessSuccess": {
+        "title": "Ritual de Sucesso nos Negócios",
+        "description": "Leve seu negócio a novos patamares. Atraia clientes, aumente lucros e ajude seus empreendimentos a prosperar em mercados competitivos."
+      },
+      "protection": {
+        "title": "Feitiços de Energia Protetiva",
+        "description": "Afaste energias negativas, proteja-se de danos e quebre maldições para garantir um ambiente seguro e positivo para você e seus entes queridos."
+      },
+      "healing": {
+        "title": "Cura Espiritual",
+        "description": "Remédios naturais poderosos e orientação personalizada para uma variedade de desafios da vida."
+      }
+    },
+    "cta": {
+      "title": "Pronto para transformar sua vida?",
+      "description": "Entre em contato para cura tradicional autêntica, feitiços eficazes e orientação espiritual personalizada.",
+      "button": "Conversar no WhatsApp"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Telefone / WhatsApp",
+      "hours": "Horário",
+      "hoursValue": "9h – 18h"
+    }
+  },
+  "contactPage": {
+    "title": "Entre em Contato",
+    "description": "Contate Jajja Salongo Ndawula para orientação espiritual, serviços de cura e consultas personalizadas.",
+    "formTitle": "Envie-nos uma Mensagem"
+  },
+  "aboutPage": {
+    "title": "Sobre",
+    "subtitle": "Jajja Salongo Ndawula Cura",
+    "description": "Jajja Salongo Ndawula é um renomado curandeiro tradicional oferecendo soluções espirituais poderosas e remédios naturais na África, EUA, Reino Unido, Austrália e Ásia.",
+    "learnMore": "Saiba Mais",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Curandeiro tradicional e feiticeiro oferecendo remédios naturais para vários desafios da vida.",
+    "servicesTitle": "Nossos Serviços",
+    "services": {
+      "healing": {
+        "title": "Cura e Orientação",
+        "description": "Oferecemos feitiços de amor, leitura psíquica e rituais de proteção para restaurar o equilíbrio."
+      },
+      "global": {
+        "title": "Alcance Global",
+        "description": "Servindo clientes na África, EUA, Reino Unido, Austrália e Ásia com soluções espirituais poderosas."
+      }
+    },
+    "testimonialsTitle": "Feedback dos Clientes",
+    "testimonials": {
+      "sarah": "Os feitiços de Jajja Salongo Ndawula transformaram minha vida; encontrei amor e sucesso além das expectativas.",
+      "michael": "A leitura psíquica foi precisa e perspicaz, me guiando através de tempos difíceis."
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Telefone / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Métodos Tradicionais de Cura Africana",
+    "subtitle": "48 anos de sabedoria espiritual e herança cultural",
+    "introduction": "Por 48 anos, Jaja Salongo Ndaula tem desempenhado um papel muito importante em fornecer sabedoria espiritual, compreensão e despertar de várias culturas africanas através da cura tradicional e feitiçaria.",
+    "sections": {
+      "oldWays": {
+        "title": "Os Antigos Métodos Tradicionais de Cura Africana",
+        "content": "Os antigos métodos tradicionais de cura Bantu e Bachwezi são um sistema complexo que abrange saúde física e bem-estar espiritual. Estes antigos métodos tradicionais foram transmitidos de tempos em tempos."
+      },
+      "origin": {
+        "title": "Origem e Significado Cultural",
+        "content": "O método de cura nativo Bantu tem suas raízes no sul do continente africano, que tem uma profunda influência espiritual e comunitária nas sociedades africanas. Jaja Salongo Ndaula desempenha um papel crucial no diagnóstico e tratamento através de suas práticas espirituais e poderes psíquicos e lançamento de feitiços africanos."
+      },
+      "knowledge": {
+        "title": "Conhecimento e Compreensão Geracional",
+        "content": "Curandeiros tradicionais/culturais desempenham um papel enorme em nutrir gerações mais jovens para manter as práticas preservadas e puras. Isso ajudou a ensinar gerações jovens sobre práticas culturais, apresentações, oferendas, sacrifícios e compreensão da natureza e do universo.",
+        "additional": "Frequentemente referidos na África como feiticeiros (Jaja) que acreditam na interconexão do corpo físico e mundos espirituais. Cerimônias são realizadas para se comunicar entre os vivos e os espíritos com a ajuda de práticas tradicionais africanas como feitiços de lua cheia e práticas de cura africanas."
+      },
+      "services": {
+        "title": "Serviços Oferecidos",
+        "subtitle": "O desejo de melhorar vários aspectos da vida levou nossa equipe a fazer tudo isso:",
+        "love": {
+          "title": "Feitiços de Amor e Relacionamento",
+          "items": ["Atração", "Ser amado", "Ser dado", "Boa sorte"]
+        },
+        "cleansing": {
+          "title": "Cerimônias de Limpeza e Oferenda",
+          "content": "Esta é uma parte essencial dos serviços de cura que visa remover energias negativas, almas malignas usando ervas e árvores africanas. Essas práticas purificam mente, corpo e alma."
+        },
+        "protection": {
+          "title": "Feitiços de Proteção"
+        },
+        "health": {
+          "title": "Remédios de Saúde e Bem-estar",
+          "content": "Nossa equipe visa mais do que apenas o bem-estar de seus clientes enquanto usa ingredientes naturais, orgânicos e espécimes naturais de lugares como a fonte do Nilo (Cachoeiras Bujagali) água e espécimes de árvores orgânicas."
+        },
+        "ancestral": {
+          "title": "Conexão com Espíritos Ancestrais",
+          "content": "Através de orações, jejum e rituais, eles buscam sua sabedoria e intervenção em tempos de necessidade, focando em trazer paz, cura e equilíbrio à vida de alguém."
+        }
+      },
+      "divineHealing": {
+        "title": "Técnicas de Cura Divina",
+        "content": "Este aspecto da cura tradicional africana permite ao curandeiro obter insights sobre as causas dos problemas e possíveis resultados de suas intervenções, como:",
+        "techniques": ["Leitura Divina e de Velas", "Banho de Sal e Rio", "Meditação e Atenção Plena"]
+      },
+      "personalizedTreatment": {
+        "title": "Planos de Tratamento Personalizados",
+        "content": "Após a avaliação inicial, nosso curandeiro criará um plano de tratamento personalizado adaptado às suas necessidades específicas. Isso pode incluir: rituais tradicionais, remédios herbais, orientação espiritual."
+      },
+      "remoteHealing": {
+        "title": "Opções de Cura Remota e Presencial",
+        "content": "Nosso curandeiro oferece opções de cura tanto remotas quanto presenciais dependendo das culturas e origens. Seja você buscando orientação remotamente ou pessoalmente, estamos comprometidos em fornecer suporte eficaz."
+      },
+      "followUp": {
+        "title": "Suporte e Orientação de Acompanhamento",
+        "content": "Após a consulta inicial e plano de tratamento, nosso curandeiro da equipe fornece suporte e orientação contínuos. Suporte e orientação de acompanhamento para garantir que você esteja no caminho da cura. Isso incluirá check-ins regulares e comunicação, bem como visitas ao local."
+      }
+    },
+    "conclusion": {
+      "title": "Conclusão",
+      "content": "Para qualquer pessoa que busque mais cursos e práticas, serviços de cura e despertar pode entrar em contato com nossa equipe experiente que ficará feliz em fornecer orientação e suporte profissional, seguro e personalizado, independentemente de suas dificuldades financeiras."
+    },
+    "contactCta": "Entre em contato conosco para serviços de cura"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Jajja Salongo Ndawula Heilung",
+    "description": "Jajja Salongo Ndawula ist ein renommierter traditioneller Heiler und Zauberer, der natürliche Heilmittel und spirituelle Führung in ganz Afrika und darüber hinaus anbietet, um die Herausforderungen des Lebens zu lösen.",
+    "cta": "Hilfe bekommen"
+  },
+  "services": {
+    "title": "Spirituelle Heilungsdienste",
+    "traditional": {
+      "title": "Traditionelle Heilung & Zauberei",
+      "description": "Jajja Salongo Ndawula bietet mächtige traditionelle Heilung und Zauberei für verschiedene Lebensherausforderungen."
+    },
+    "love": {
+      "title": "Liebeszauber",
+      "description": "Stellen Sie sich einen Liebeszauber vor, der Ihren Ex-Freund oder Ihre Ex-Freundin in nur wenigen Stunden zurückbringen könnte. Probieren Sie Jajja Salongo Ndawulas Liebeszauber"
+    },
+    "psychic": {
+      "title": "Hellsehen",
+      "description": "Entschlüsseln Sie die Geheimnisse von Vergangenheit, Gegenwart und Zukunft durch Hellsehen, erhalten Sie Einblicke in beunruhigende Situationen, denen Sie möglicherweise gegenüberstehen"
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schief gelaufen",
+    "retry": "Erneut versuchen"
+  },
+  "footer": {
+    "contact": "Kontakt",
+    "socials": "Soziale Medien",
+    "helpButton": "Brauchen Sie Hilfe? Chatten Sie mit uns",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Alle Rechte vorbehalten."
+  },
+  "gallery": {
+    "title": "Galerie der Heilung",
+    "description": "Entdecken Sie die traditionellen Heilpraktiken und spirituelle Weisheit von Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Kundenstimmen",
+    "quote": "Jajja Salongo Ndawulas Zauber haben mein Leben verwandelt. Ich habe meine verlorene Liebe zurückgewonnen und Heilung jenseits aller Vorstellungen erfahren. Wahrhaft ein begabter Heiler und eine mächtige Präsenz!"
+  },
+  "servicesPage": {
+    "title": "Spirituelle Heilungsdienste",
+    "description": "Jajja Salongo Ndawula bietet mächtige Zauber und natürliche Heilmittel für Liebe, Schutz und Erfolg.",
+    "services": {
+      "spellCasting": {
+        "title": "Effektive Zauberei",
+        "description": "Traditionelle Heilung und Zauberei mit natürlichen Heilmitteln für Liebe, Schutz und Erfolg in Ost-, Zentral- und Südafrika und darüber hinaus."
+      },
+      "businessSuccess": {
+        "title": "Geschäftserfolg-Ritual",
+        "description": "Bringen Sie Ihr Unternehmen auf neue Höhen. Ziehen Sie Kunden an, steigern Sie Gewinne und helfen Sie Ihren Unternehmungen in wettbewerbsintensiven Märkten zu gedeihen."
+      },
+      "protection": {
+        "title": "Schutzenergie-Zauber",
+        "description": "Vertreiben Sie negative Energien, schützen Sie sich vor Schäden und brechen Sie Flüche, um eine sichere und positive Umgebung für Sie und Ihre Lieben zu gewährleisten."
+      },
+      "healing": {
+        "title": "Spirituelle Heilung",
+        "description": "Mächtige natürliche Heilmittel und personalisierte Führung für eine Vielzahl von Lebensherausforderungen."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihr Leben zu verwandeln?",
+      "description": "Kontaktieren Sie uns für authentische traditionelle Heilung, effektive Zauber und personalisierte spirituelle Führung.",
+      "button": "Chat auf WhatsApp"
+    },
+    "contact": {
+      "email": "E-Mail",
+      "phone": "Telefon / WhatsApp",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "9:00 – 18:00"
+    }
+  },
+  "contactPage": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Kontaktieren Sie Jajja Salongo Ndawula für spirituelle Führung, Heilungsdienste und personalisierte Beratungen.",
+    "formTitle": "Senden Sie uns eine Nachricht"
+  },
+  "aboutPage": {
+    "title": "Über uns",
+    "subtitle": "Jajja Salongo Ndawula Heilung",
+    "description": "Jajja Salongo Ndawula ist ein renommierter traditioneller Heiler, der mächtige spirituelle Lösungen und natürliche Heilmittel in Afrika, den USA, Großbritannien, Australien und Asien anbietet.",
+    "learnMore": "Mehr erfahren",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Traditioneller Heiler und Zauberer, der natürliche Heilmittel für verschiedene Lebensherausforderungen anbietet.",
+    "servicesTitle": "Unsere Dienstleistungen",
+    "services": {
+      "healing": {
+        "title": "Heilung und Führung",
+        "description": "Wir bieten Liebeszauber, Hellsehen und Schutzrituale zur Wiederherstellung des Gleichgewichts."
+      },
+      "global": {
+        "title": "Globale Reichweite",
+        "description": "Wir bedienen Kunden in Afrika, den USA, Großbritannien, Australien und Asien mit mächtigen spirituellen Lösungen."
+      }
+    },
+    "testimonialsTitle": "Kundenfeedback",
+    "testimonials": {
+      "sarah": "Jajja Salongo Ndawulas Zauber haben mein Leben verwandelt; ich fand Liebe und Erfolg jenseits aller Erwartungen.",
+      "michael": "Das Hellsehen war genau und aufschlussreich und führte mich durch schwierige Zeiten."
+    },
+    "contact": {
+      "email": "E-Mail",
+      "phone": "Telefon / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Traditionelle Afrikanische Heilmethoden",
+    "subtitle": "48 Jahre spirituelle Weisheit und kulturelles Erbe",
+    "introduction": "Seit 48 Jahren spielt Jaja Salongo Ndaula eine sehr wichtige Rolle bei der Bereitstellung spiritueller Weisheit, Verständnis und Erweckung verschiedener afrikanischer Kulturen durch traditionelle Heilung und Zauberei.",
+    "sections": {
+      "oldWays": {
+        "title": "Die alten traditionellen afrikanischen Heilmethoden",
+        "content": "Die alten traditionellen Heilmethoden der Bantu und Bachwezi sind ein komplexes System, das körperliche Gesundheit und spirituelles Wohlbefinden umfasst. Diese alten traditionellen Methoden wurden von Zeit zu Zeit weitergegeben."
+      },
+      "origin": {
+        "title": "Ursprung und kulturelle Bedeutung",
+        "content": "Die lokale Bantu-Heilmethode hat ihre Wurzeln im Süden des afrikanischen Kontinents, der einen tiefen spirituellen und gemeinschaftlichen Einfluss auf die afrikanischen Gesellschaften hat. Jajja Salongo Ndaula spielt eine entscheidende Rolle bei der Diagnose und Behandlung durch seine spirituellen Praktiken und psychischen Kräfte und das Wirken afrikanischer Zauber."
+      },
+      "knowledge": {
+        "title": "Generationswissen und Verständnis",
+        "content": "Traditionelle / kulturelle Heiler spielen eine enorme Rolle bei der Betreuung jüngerer Generationen, um die Praktiken bewahrt und rein zu halten. Dies hat dazu beigetragen, junge Generationen über kulturelle Praktiken, Präsentationen, Opfergaben, Opfer und das Verständnis der Natur und des Universums zu lehren.",
+        "additional": "Oft in Afrika als Hexendoktoren (Jaja) bezeichnet, die an die Verbundenheit des physischen Körpers und der spirituellen Welten glauben. Zeremonien werden durchgeführt, um zwischen den Lebenden und den Geistern mit Hilfe afrikanischer traditioneller Praktiken wie dem Vollmond-Zauber und afrikanischen Heilpraktiken zu kommunizieren."
+      },
+      "services": {
+        "title": "Angebotene Dienstleistungen",
+        "subtitle": "Der Wunsch, verschiedene Aspekte des Lebens zu verbessern, hat unser Team dazu gebracht, all dies zu tun:",
+        "love": {
+          "title": "Liebes- und Beziehungszauber",
+          "items": ["Anziehung", "Geliebt werden", "Gegeben werden", "Viel Glück"]
+        },
+        "cleansing": {
+          "title": "Reinigungs- und Opferzeremonien",
+          "content": "Dies ist ein wesentlicher Teil der Heilungsdienste, der darauf abzielt, negative Energien und böse Seelen zu entfernen, unter Verwendung afrikanischer Kräuter und Bäume. Diese Praktiken reinigen Geist, Körper und Seele."
+        },
+        "protection": {
+          "title": "Schutzzauber"
+        },
+        "health": {
+          "title": "Gesundheits- und Wellness-Heilmittel",
+          "content": "Unser Team zielt auf mehr als nur das Wohlbefinden seiner Kunden ab, während es natürliche, organische Zutaten und natürliche Exemplare von Orten wie der Quelle des Nils (Bujagali-Fälle) Wasser und organische Baumexemplare verwendet."
+        },
+        "ancestral": {
+          "title": "Verbindung zu Ahnengeistern",
+          "content": "Durch Gebete, Fasten und Rituale suchen sie ihre Weisheit und Intervention in Zeiten der Not, die sich darauf konzentriert, Frieden, Heilung und Gleichgewicht in das Leben zu bringen."
+        }
+      },
+      "divineHealing": {
+        "title": "Göttliche Heiltechniken",
+        "content": "Dieser Aspekt der traditionellen afrikanischen Heilung ermöglicht es dem Heiler, Einblick in die Ursachen von Problemen und mögliche Ergebnisse ihrer Interventionen zu gewinnen, wie z.B.:",
+        "techniques": ["Das Göttliche & Kerzen-Zauber-Lesen", "Salz- und Flussbad", "Meditation und Achtsamkeit"]
+      },
+      "personalizedTreatment": {
+        "title": "Personalisierte Behandlungspläne",
+        "content": "Nach der ersten Bewertung wird unser Heiler einen personalisierten Behandlungsplan erstellen, der auf Ihre spezifischen Bedürfnisse zugeschnitten ist. Dies kann umfassen: traditionelle Rituale, Kräuterheilmittel, spirituelle Führung."
+      },
+      "remoteHealing": {
+        "title": "Fern- und Präsenz-Heilungsoptionen",
+        "content": "Unser Heiler bietet sowohl Fern- als auch Präsenz-Heilungsoptionen je nach Kulturen und Hintergründen. Ob Sie Führung aus der Ferne oder persönlich suchen, wir sind verpflichtet, effektive Unterstützung zu bieten."
+      },
+      "followUp": {
+        "title": "Nachsorge und Führung",
+        "content": "Nach der ersten Beratung und dem Behandlungsplan bietet unser Team-Heiler kontinuierliche Unterstützung und Führung. Nachsorge und Führung, um sicherzustellen, dass Sie auf dem Weg der Heilung sind. Dies wird regelmäßige Check-ins und Kommunikation sowie Standortbesuche umfassen."
+      }
+    },
+    "conclusion": {
+      "title": "Fazit",
+      "content": "Für jeden, der mehr Kurse und Praktiken, Heilung und Erweckungsdienste sucht, kann sich an unser erfahrenes Team wenden, das gerne professionelle, sichere und personalisierte Führung und Unterstützung unabhängig von Ihren finanziellen Schwierigkeiten bietet."
+    },
+    "contactCta": "Kontaktieren Sie uns für Heilungsdienste"
+  }
+}
