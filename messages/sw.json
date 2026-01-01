@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Nyumbani",
+    "services": "Huduma",
+    "about": "Kuhusu",
+    "contact": "Wasiliana"
+  },
+  "hero": {
+    "title": "Uponyaji wa Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula ni mganga wa jadi maarufu na mchawi, anayetoa dawa za asili na mwongozo wa kiroho kote Afrika na zaidi ili kutatua changamoto za maisha.",
+    "cta": "Pata Msaada"
+  },
+  "services": {
+    "title": "Huduma za Uponyaji wa Kiroho",
+    "traditional": {
+      "title": "Uponyaji wa Jadi na Uchawi",
+      "description": "Jajja Salongo Ndawula anatoa uponyaji wa jadi wenye nguvu na uchawi kwa changamoto mbalimbali za maisha."
+    },
+    "love": {
+      "title": "Uchawi wa Mapenzi",
+      "description": "Fikiria uchawi wa mapenzi ambao unaweza kumrudisha mpenzi wako wa zamani ndani ya masaa machache tu. Jaribu uchawi wa mapenzi wa Jajja Salongo Ndawula"
+    },
+    "psychic": {
+      "title": "Kusoma Akili",
+      "description": "Fungua siri za zamani, sasa na baadaye kupitia kusoma akili, pata maarifa kuhusu hali ngumu unayoweza kukabiliana nayo"
+    }
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Kuna tatizo",
+    "retry": "Jaribu tena"
+  },
+  "footer": {
+    "contact": "Mawasiliano",
+    "socials": "Mitandao ya Kijamii",
+    "helpButton": "Unahitaji Msaada? Ongea nasi",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Haki zote zimehifadhiwa."
+  },
+  "gallery": {
+    "title": "Jumba la Uponyaji",
+    "description": "Chunguza desturi za uponyaji wa jadi na hekima ya kiroho ya Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Sauti za Wateja",
+    "quote": "Uchawi wa Jajja Salongo Ndawula ulibadilisha maisha yangu. Nilipata upendo wangu uliopotea na kupata uponyaji usio wa kawaida. Kweli ni mganga mwenye kipaji na nguvu kuu!"
+  },
+  "servicesPage": {
+    "title": "Huduma za Uponyaji wa Kiroho",
+    "description": "Jajja Salongo Ndawula anatoa uchawi mkuu na dawa za asili kwa upendo, ulinzi, na mafanikio.",
+    "services": {
+      "spellCasting": {
+        "title": "Uchawi wa Ufanisi",
+        "description": "Uponyaji wa jadi na uchawi kwa kutumia dawa za asili kushughulikia upendo, ulinzi, na mafanikio katika Afrika ya Mashariki, Kati, na Kusini, na zaidi."
+      },
+      "businessSuccess": {
+        "title": "Ibada ya Mafanikio ya Biashara",
+        "description": "Inua biashara yako hadi viwango vipya. Vuta wateja, ongeza faida, na saidia miradi yako istawi katika masoko ya ushindani."
+      },
+      "protection": {
+        "title": "Uchawi wa Nguvu za Ulinzi",
+        "description": "Ondoa nguvu mbaya, jilinde dhidi ya madhara, na vunja laana ili kuhakikisha mazingira salama na chanya kwako na wapendwa wako."
+      },
+      "healing": {
+        "title": "Uponyaji wa Kiroho",
+        "description": "Dawa za asili zenye nguvu na mwongozo wa kibinafsi kwa changamoto mbalimbali za maisha."
+      }
+    },
+    "cta": {
+      "title": "Uko Tayari Kubadilisha Maisha Yako?",
+      "description": "Wasiliana nasi kwa uponyaji wa jadi wa kweli, uchawi wa ufanisi, na mwongozo wa kiroho wa kibinafsi.",
+      "button": "Ongea kwenye WhatsApp"
+    },
+    "contact": {
+      "email": "Barua pepe",
+      "phone": "Simu / WhatsApp",
+      "hours": "Masaa",
+      "hoursValue": "9am – 6pm"
+    }
+  },
+  "contactPage": {
+    "title": "Wasiliana Nasi",
+    "description": "Wasiliana na Jajja Salongo Ndawula kwa mwongozo wa kiroho, huduma za uponyaji, na mashauriano ya kibinafsi.",
+    "formTitle": "Tutumie Ujumbe"
+  },
+  "aboutPage": {
+    "title": "Kuhusu",
+    "subtitle": "Uponyaji wa Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula ni mganga wa jadi maarufu, anayetoa suluhisho za kiroho zenye nguvu na dawa za asili katika Afrika, Marekani, Uingereza, Australia, na Asia.",
+    "learnMore": "Jifunze Zaidi",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Mganga wa jadi na mchawi anayetoa dawa za asili kwa changamoto mbalimbali za maisha.",
+    "servicesTitle": "Huduma Zetu",
+    "services": {
+      "healing": {
+        "title": "Uponyaji na Mwongozo",
+        "description": "Tunatoa uchawi wa upendo, kusoma akili, na ibada za ulinzi ili kurejesha uwiano."
+      },
+      "global": {
+        "title": "Ufikaji wa Kimataifa",
+        "description": "Tunahudumia wateja katika Afrika, Marekani, Uingereza, Australia, na Asia kwa suluhisho za kiroho zenye nguvu."
+      }
+    },
+    "testimonialsTitle": "Maoni ya Wateja",
+    "testimonials": {
+      "sarah": "Uchawi wa Jajja Salongo Ndawula ulibadilisha maisha yangu; nilipata upendo na mafanikio zaidi ya matarajio.",
+      "michael": "Kusoma akili kulikuwa sahihi na chenye busara, kuniongoza katika nyakati ngumu."
+    },
+    "contact": {
+      "email": "Barua pepe",
+      "phone": "Simu / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Njia za Kienyeji za Uponyaji wa Kiafrika",
+    "subtitle": "Miaka 48 ya Hekima ya Kiroho na Utamaduni wa Kitamaduni",
+    "introduction": "Kwa miaka 48 iliyopita, Jaja Salongo Ndaula amechukua jukumu muhimu sana katika kutoa hekima ya kiroho, uelewa, na kuamsha tamaduni mbalimbali za Kiafrika kupitia uponyaji wa kienyeji na uchawi.",
+    "sections": {
+      "oldWays": {
+        "title": "Njia za Zamani za Uponyaji wa Kiafrika",
+        "content": "Njia za zamani za uponyaji za Kibantu na Kibachwezi ni mfumo mgumu unaojumuisha afya ya kimwili na ustawi wa kiroho. Njia hizi za zamani zimepitishwa kutoka wakati hadi wakati."
+      },
+      "origin": {
+        "title": "Asili na Umuhimu wa Kitamaduni",
+        "content": "Njia za kienyeji za uponyaji za Kibantu zina mizizi yake kutoka kusini mwa bara la Afrika ambayo ina athari kubwa ya kiroho na jamii katika jamii za Kiafrika. Jaja Salongo Ndaula ana jukumu muhimu katika kutambua na kutibu kupitia mazoezi yake ya kiroho na nguvu za kisaikolojia na uchawi wa Kiafrika."
+      },
+      "knowledge": {
+        "title": "Maarifa ya Kizazi na Uelewa",
+        "content": "Waganga wa kienyeji / kitamaduni wana jukumu kubwa katika kuongoza vizazi vijanja ili kuhifadhi mazoezi safi na safi. Hii imesaidia kufundisha vizazi vijanja kuhusu mazoezi ya kitamaduni, maonyesho, matoleo, dhabihu na uelewa wa asili na ulimwengu.",
+        "additional": "Mara nyingi huitwa Afrika kama waganga (Jaja), ambao wanaamini uhusiano wa miili ya kimwili na ulimwengu wa kiroho. Sherehe hufanywa kuwasiliana kati ya walio hai na roho kwa msaada wa mazoezi ya kienyeji ya Kiafrika kama vile uchawi wa mwezi mzima na mazoezi ya uponyaji wa Kiafrika."
+      },
+      "services": {
+        "title": "Huduma Zinazotolewa",
+        "subtitle": "Hamu ya kuboresha vipengele mbalimbali vya maisha imesukuma timu yetu kufanya haya yote:",
+        "love": {
+          "title": "Uchawi wa Mapenzi na Mahusiano",
+          "items": ["Kuvutia", "Kupendwa", "Kupewa", "Bahati Njema"]
+        },
+        "cleansing": {
+          "title": "Sherehe za Kusafisha na Kutoa Sadaka",
+          "content": "Hii ni sehemu muhimu ya huduma za uponyaji inayolenga kuondoa nguvu hasi, roho mbaya, kwa kutumia mimea ya Kiafrika na miti. Mazoezi haya yanasafisha akili, mwili na roho."
+        },
+        "protection": {
+          "title": "Uchawi wa Ulinzi"
+        },
+        "health": {
+          "title": "Dawa za Afya na Ustawi",
+          "content": "Timu yetu inalenga zaidi ya ustawi wa Wateja wake huku ikitumia viungo vya asili, vya kikaboni na vielelezo vya asili kutoka maeneo kama chanzo cha Nile (Bujagali Falls) maji na vielelezo vya mti wa kikaboni."
+        },
+        "ancestral": {
+          "title": "Uhusiano na Roho za Babu",
+          "content": "Kupitia maombi, kufunga na sherehe, wanatafuta hekima yao na uingiliaji kati wakati wa uhitaji, ambao unalenga kuleta amani, uponyaji na uwiano katika maisha ya mtu."
+        }
+      },
+      "divineHealing": {
+        "title": "Mbinu za Uponyaji wa Kimungu",
+        "content": "Kipengele hiki cha uponyaji wa kienyeji wa Kiafrika kinamruhusu mganga kupata maarifa kuhusu sababu za matatizo na matokeo yanayowezekana ya uingiliaji wao kama vile:",
+        "techniques": ["Kusoma Uchawi wa Kimungu na Mshumaa", "Bafu ya Chumvi na Mto", "Kutafakari na uangalifu"]
+      },
+      "personalizedTreatment": {
+        "title": "Mipango ya Matibabu ya Kibinafsi",
+        "content": "Baada ya tathmini ya awali, mganga wetu ataunda mpango wa matibabu uliobinafsishwa unaofaa mahitaji yako maalum. Hayo yanaweza kujumuisha: sherehe za kienyeji, dawa za mimea, mwongozo wa kiroho."
+      },
+      "remoteHealing": {
+        "title": "Chaguzi za Uponyaji wa Mbali na za Ana kwa Ana",
+        "content": "Mganga wetu anatoa chaguzi za uponyaji wa mbali na za ana kwa ana kulingana na tamaduni na mazingira. Iwe unatafuta mwongozo kutoka mbali au ana kwa ana, tumejitolea kutoa msaada wa ufanisi."
+      },
+      "followUp": {
+        "title": "Msaada wa Kufuatilia na Mwongozo",
+        "content": "Baada ya ushauri wa awali na mpango wa matibabu, mganga wa Timu yetu anatoa msaada na mwongozo unaoendelea. Msaada wa kufuatilia na mwongozo ili kuhakikisha kuwa uko katika njia ya uponyaji. Hii itajumuisha kuangalia mara kwa mara na mawasiliano, na ziara za tovuti."
+      }
+    },
+    "conclusion": {
+      "title": "Hitimisho",
+      "content": "Kwa yeyote anayetafuta madarasa zaidi na mazoezi, uponyaji na huduma za kuamsha, anaweza kuwasiliana na timu yetu ya uzoefu ambayo itafurahi kutoa mwongozo na msaada wa kitaalamu, salama na wa kibinafsi bila kujali matatizo yako ya kifedha."
+    },
+    "contactCta": "Wasiliana Nasi kwa Huduma za Uponyaji"
+  }
+}

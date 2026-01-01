@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Jajja Salongo Ndawula Şifa",
+    "description": "Jajja Salongo Ndawula, yaşam zorluklarını çözmek için Afrika genelinde ve ötesinde doğal ilaçlar ve ruhsal rehberlik sunan ünlü bir geleneksel şifacı ve büyücüdür.",
+    "cta": "Yardım Al"
+  },
+  "services": {
+    "title": "Ruhsal Şifa Hizmetleri",
+    "traditional": {
+      "title": "Geleneksel Şifa ve Büyücülük",
+      "description": "Jajja Salongo Ndawula çeşitli yaşam zorluklarına güçlü geleneksel şifa ve büyücülük sunar."
+    },
+    "love": {
+      "title": "Aşk Büyüleri",
+      "description": "Eski erkek veya kız arkadaşınızı sadece birkaç saatte geri getirebilecek bir aşk büyüsü hayal edin. Jajja Salongo Ndawula'nın aşk büyülerini deneyin"
+    },
+    "psychic": {
+      "title": "Psişik Okuma",
+      "description": "Psişik okuma yoluyla geçmiş, şimdi ve geleceğin gizemlerini çözün, karşılaştığınız rahatsız edici durumlar hakkında içgörü kazanın"
+    }
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler ters gitti",
+    "retry": "Tekrar dene"
+  },
+  "footer": {
+    "contact": "İletişim",
+    "socials": "Sosyal Medya",
+    "helpButton": "Yardıma mı ihtiyacınız var? Bizimle sohbet edin",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Tüm hakları saklıdır."
+  },
+  "gallery": {
+    "title": "Şifa Galerisi",
+    "description": "Jajja Salongo Ndawula'nın geleneksel şifa uygulamalarını ve ruhsal bilgeliğini keşfedin"
+  },
+  "testimonials": {
+    "title": "Müşteri Yorumları",
+    "quote": "Jajja Salongo Ndawula'nın büyüleri hayatımı değiştirdi. Kayıp aşkımı geri kazandım ve inanılmaz şifa yaşadım. Gerçekten yetenekli bir şifacı ve güçlü bir varlık!"
+  },
+  "servicesPage": {
+    "title": "Ruhsal Şifa Hizmetleri",
+    "description": "Jajja Salongo Ndawula aşk, koruma ve başarı için güçlü büyüler ve doğal ilaçlar sunar.",
+    "services": {
+      "spellCasting": {
+        "title": "Etkili Büyücülük",
+        "description": "Doğu, Orta ve Güney Afrika'da ve ötesinde aşk, koruma ve başarı için doğal ilaçlar kullanarak geleneksel şifa ve büyücülük."
+      },
+      "businessSuccess": {
+        "title": "İş Başarısı Ritüeli",
+        "description": "İşinizi yeni zirvelere taşıyın. Müşteri çekin, karları artırın ve girişimlerinizin rekabetçi pazarlarda gelişmesine yardımcı olun."
+      },
+      "protection": {
+        "title": "Koruyucu Enerji Büyüleri",
+        "description": "Negatif enerjileri uzaklaştırın, kendinizi zarardan koruyun ve sizin ve sevdikleriniz için güvenli ve pozitif bir ortam sağlamak için lanetleri kırın."
+      },
+      "healing": {
+        "title": "Ruhsal Şifa",
+        "description": "Çeşitli yaşam zorluklarına güçlü doğal ilaçlar ve kişiselleştirilmiş rehberlik."
+      }
+    },
+    "cta": {
+      "title": "Hayatınızı dönüştürmeye hazır mısınız?",
+      "description": "Otantik geleneksel şifa, etkili büyüler ve kişiselleştirilmiş ruhsal rehberlik için bizimle iletişime geçin.",
+      "button": "WhatsApp'ta Sohbet Et"
+    },
+    "contact": {
+      "email": "E-posta",
+      "phone": "Telefon / WhatsApp",
+      "hours": "Saatler",
+      "hoursValue": "09:00 – 18:00"
+    }
+  },
+  "contactPage": {
+    "title": "Bizimle İletişime Geçin",
+    "description": "Ruhsal rehberlik, şifa hizmetleri ve kişiselleştirilmiş danışmanlık için Jajja Salongo Ndawula ile iletişime geçin.",
+    "formTitle": "Bize Mesaj Gönderin"
+  },
+  "aboutPage": {
+    "title": "Hakkımızda",
+    "subtitle": "Jajja Salongo Ndawula Şifa",
+    "description": "Jajja Salongo Ndawula, Afrika, ABD, İngiltere, Avustralya ve Asya'da güçlü ruhsal çözümler ve doğal ilaçlar sunan ünlü bir geleneksel şifacıdır.",
+    "learnMore": "Daha Fazla Öğren",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Çeşitli yaşam zorluklarına doğal ilaçlar sunan geleneksel şifacı ve büyücü.",
+    "servicesTitle": "Hizmetlerimiz",
+    "services": {
+      "healing": {
+        "title": "Şifa ve Rehberlik",
+        "description": "Dengeyi restore etmek için aşk büyüleri, psişik okuma ve koruyucu ritüeller sunuyoruz."
+      },
+      "global": {
+        "title": "Küresel Erişim",
+        "description": "Afrika, ABD, İngiltere, Avustralya ve Asya'daki müşterilere güçlü ruhsal çözümlerle hizmet veriyoruz."
+      }
+    },
+    "testimonialsTitle": "Müşteri Geri Bildirimleri",
+    "testimonials": {
+      "sarah": "Jajja Salongo Ndawula'nın büyüleri hayatımı değiştirdi; beklentilerin ötesinde aşk ve başarı buldum.",
+      "michael": "Psişik okuma kesin ve anlayışlıydı, zor zamanlarda bana rehberlik etti."
+    },
+    "contact": {
+      "email": "E-posta",
+      "phone": "Telefon / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Geleneksel Afrika Şifa Yöntemleri",
+    "subtitle": "48 yıllık ruhsal bilgelik ve kültürel miras",
+    "introduction": "48 yıldır Jaja Salongo Ndaula, geleneksel şifa ve büyücülük yoluyla çeşitli Afrika kültürlerinin ruhsal bilgelik, anlayış ve uyanışını sağlamada çok önemli bir rol oynamaktadır.",
+    "sections": {
+      "oldWays": {
+        "title": "Eski Geleneksel Afrika Şifa Yöntemleri",
+        "content": "Eski geleneksel Bantu ve Bachwezi şifa yöntemleri, fiziksel sağlık ve ruhsal refahı kapsayan karmaşık bir sistemdir. Bu eski geleneksel yöntemler zaman zaman aktarılmıştır."
+      },
+      "origin": {
+        "title": "Köken ve Kültürel Önemi",
+        "content": "Bantu yerel şifa yöntemi, Afrika kıtasının güneyinde kökleri olan ve Afrika toplumları üzerinde derin ruhsal ve toplumsal etkisi bulunan bir sistemdir. Jaja Salongo Ndaula, ruhsal uygulamaları ve psişik güçleri ve Afrika büyülerinin uygulanması yoluyla teşhis ve tedavide çok önemli bir rol oynamaktadır."
+      },
+      "knowledge": {
+        "title": "Nesiller Arası Bilgi ve Anlayış",
+        "content": "Geleneksel/kültürel şifacılar, uygulamaları korunmuş ve saf tutmak için genç nesilleri yetiştirmede büyük rol oynamaktadır. Bu, genç nesillere kültürel uygulamalar, sunumlar, adaklar, kurbanlar ve doğa ile evrenin anlaşılması konularında öğretim yapılmasına yardımcı olmuştur.",
+        "additional": "Afrika'da sıklıkla fiziksel beden ve ruhsal dünyaların birbirine bağlılığına inanan büyücüler (Jaja) olarak anılırlar. Dolunay büyüleri ve Afrika şifa uygulamaları gibi Afrika geleneksel uygulamalarının yardımıyla yaşayanlar ve ruhlar arasında iletişim kurmak için törenler düzenlenir."
+      },
+      "services": {
+        "title": "Sunulan Hizmetler",
+        "subtitle": "Yaşamın çeşitli yönlerini iyileştirme arzusu ekibimizi tüm bunları yapmaya yönlendirdi:",
+        "love": {
+          "title": "Aşk ve İlişki Büyüleri",
+          "items": ["Çekim", "Sevilmek", "Verilmek", "İyi şans"]
+        },
+        "cleansing": {
+          "title": "Temizlik ve Adak Törenleri",
+          "content": "Bu, Afrika bitkileri ve ağaçları kullanarak negatif enerjileri, kötü ruhları uzaklaştırmayı amaçlayan şifa hizmetlerinin temel bir parçasıdır. Bu uygulamalar zihin, beden ve ruhu arındırır."
+        },
+        "protection": {
+          "title": "Koruma Büyüleri"
+        },
+        "health": {
+          "title": "Sağlık ve Refah İlaçları",
+          "content": "Ekibimiz, Nil'in kaynağı (Bujagali Şelaleleri) suyu ve organik ağaç örnekleri gibi yerlerden doğal, organik malzemeler ve doğal örnekler kullanırken müşterilerinin refahından daha fazlasını hedeflemektedir."
+        },
+        "ancestral": {
+          "title": "Ata Ruhlarıyla Bağlantı",
+          "content": "Dualar, oruç ve ritüeller yoluyla, ihtiyaç zamanlarında onların bilgelik ve müdahalesini ararlar, birinin yaşamına huzur, şifa ve denge getirmeye odaklanırlar."
+        }
+      },
+      "divineHealing": {
+        "title": "İlahi Şifa Teknikleri",
+        "content": "Geleneksel Afrika şifasının bu yönü, şifacının sorunların nedenlerine ve müdahalelerinin olası sonuçlarına dair içgörü kazanmasını sağlar:",
+        "techniques": ["İlahi ve Mum Büyüsü Okuma", "Tuz ve Nehir Banyoları", "Meditasyon ve Farkındalık"]
+      },
+      "personalizedTreatment": {
+        "title": "Kişiselleştirilmiş Tedavi Planları",
+        "content": "İlk değerlendirmeden sonra şifacımız, özel ihtiyaçlarınıza göre uyarlanmış kişiselleştirilmiş bir tedavi planı oluşturacaktır. Bu şunları içerebilir: geleneksel ritüeller, bitkisel ilaçlar, ruhsal rehberlik."
+      },
+      "remoteHealing": {
+        "title": "Uzaktan ve Yüz Yüze Şifa Seçenekleri",
+        "content": "Şifacımız kültürler ve geçmişlere bağlı olarak hem uzaktan hem de yüz yüze şifa seçenekleri sunar. İster uzaktan ister yüz yüze rehberlik arıyor olun, etkili destek sağlamaya kararlıyız."
+      },
+      "followUp": {
+        "title": "Takip Desteği ve Rehberlik",
+        "content": "İlk danışmanlık ve tedavi planından sonra ekip şifacımız sürekli destek ve rehberlik sağlar. Şifa yolunda olduğunuzdan emin olmak için takip desteği ve rehberlik. Bu düzenli kontroller ve iletişimin yanı sıra saha ziyaretlerini de içerecektir."
+      }
+    },
+    "conclusion": {
+      "title": "Sonuç",
+      "content": "Daha fazla kurs ve uygulama, şifa ve uyanış hizmetleri arayan herkes, mali zorluklarınıza bakılmaksızın profesyonel, güvenli ve kişiselleştirilmiş rehberlik ve destek sağlamaktan mutluluk duyacak deneyimli ekibimizle iletişime geçebilir."
+    },
+    "contactCta": "Şifa hizmetleri için bizimle iletişime geçin"
+  }
+}

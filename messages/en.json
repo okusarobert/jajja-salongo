@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Jajja Salongo Ndawula Healing",
+    "description": "Jajja Salongo Ndawula is a renowned traditional healer and spell caster, offering natural remedies and spiritual guidance across Africa and beyond to solve life's challenges.",
+    "cta": "Get Help"
+  },
+  "services": {
+    "title": "Spiritual Healing Services",
+    "traditional": {
+      "title": "Traditional Healing & Spell Casting",
+      "description": "Jajja Salongo Ndawula offers powerful traditional healing and spell casting for various life challenges."
+    },
+    "love": {
+      "title": "Love Spells",
+      "description": "Imagine a love spell that could return your Ex boyfriend or girlfriend in just a few hours. Try Jajja Salongo Ndawula's Love spell"
+    },
+    "psychic": {
+      "title": "Psychic Reading",
+      "description": "Unlock the mysteries of past, present and future through psychic reading, get insights into my troubling situation you maybe facing"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again"
+  },
+  "footer": {
+    "contact": "Contact",
+    "socials": "Socials",
+    "helpButton": "Need Help? Chat with us",
+    "copyright": "© 2018 Jajja Salongo Ndawula. All rights reserved."
+  },
+  "gallery": {
+    "title": "Gallery of Healing",
+    "description": "Explore the traditional healing practices and spiritual wisdom of Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Client Voices",
+    "quote": "Jajja Salongo Ndawula's spells transformed my life. I regained my lost love and experienced healing beyond belief. Truly a gifted healer and a powerful presence!"
+  },
+  "servicesPage": {
+    "title": "Spiritual Healing Services",
+    "description": "Jajja Salongo Ndawula offers powerful spells and natural remedies for love, protection, and success.",
+    "services": {
+      "spellCasting": {
+        "title": "Effective Spell Casting",
+        "description": "Traditional healing and spell casting using natural remedies to address love, protection, and success across East, Central, and Southern Africa, and beyond."
+      },
+      "businessSuccess": {
+        "title": "Business Success Ritual",
+        "description": "Elevate your business to new heights. Attract customers, increase profits, and help your ventures thrive in competitive markets."
+      },
+      "protection": {
+        "title": "Protective Energy Spells",
+        "description": "Dispel negative energies, shield yourself from harm, and break curses to ensure a safe and positive environment for you and your loved ones."
+      },
+      "healing": {
+        "title": "Spiritual Healing",
+        "description": "Powerful natural remedies and personalized guidance for a wide range of life challenges."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Life?",
+      "description": "Get in touch for authentic traditional healing, effective spells, and personalized spiritual guidance.",
+      "button": "Chat on WhatsApp"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "hours": "Hours",
+      "hoursValue": "9am – 6pm"
+    }
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "description": "Get in touch with Jajja Salongo Ndawula for spiritual guidance, healing services, and personalized consultations.",
+    "formTitle": "Send us a Message"
+  },
+  "aboutPage": {
+    "title": "About",
+    "subtitle": "Jajja Salongo Ndawula Healing",
+    "description": "Jajja Salongo Ndawula is a renowned traditional healer, offering powerful spiritual solutions and natural remedies across Africa, the USA, UK, Australia, and Asia.",
+    "learnMore": "Learn More",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Traditional healer and spell caster offering natural remedies for various life challenges.",
+    "servicesTitle": "Our Services",
+    "services": {
+      "healing": {
+        "title": "Healing and Guidance",
+        "description": "We provide love spells, psychic readings, and protective rituals to restore balance."
+      },
+      "global": {
+        "title": "Global Reach",
+        "description": "Serving clients across Africa, the USA, UK, Australia, and Asia with powerful spiritual solutions."
+      }
+    },
+    "testimonialsTitle": "Customer Feedback",
+    "testimonials": {
+      "sarah": "Jajja Salongo Ndawula's spells transformed my life; I found love and success beyond expectations.",
+      "michael": "The psychic reading was accurate and insightful, guiding me through difficult times."
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Phone / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Traditional African Healing Ways",
+    "subtitle": "48 Years of Spiritual Wisdom and Cultural Heritage",
+    "introduction": "For the past 48 years, Jaja Salongo Ndaula has played a very important role in offering spiritual wisdom, understanding, and awakening of the different African cultures through traditional healing and casting spells.",
+    "sections": {
+      "oldWays": {
+        "title": "The Old Traditional African Healing Ways",
+        "content": "The Ancient Bantu and Bachwezi traditional healing ways are a complex system that comprises physical health and spiritual well-being. These old traditional ways have been passed on from time to time."
+      },
+      "origin": {
+        "title": "Origin & Cultural Significance",
+        "content": "The Bantu local way of healing has its roots all the way from the south of the African continent which has a deep spiritual and community effect on the African societies. Jaja Salongo Ndaula plays a crucial role in diagnosing and treating through his spiritual practices and psychic powers and casting of African Spells."
+      },
+      "knowledge": {
+        "title": "Generational Knowledge & Understanding",
+        "content": "Traditional / Cultural healers play a tremendous role in mentoring younger generations to keep the practices preserved and pure. This has helped teach young generations about cultural practices, presentations, offerings, sacrifices and understanding of the nature & the universe.",
+        "additional": "Often referred to in Africa as witchdoctors (Jaja), who believe in the interconnectedness of the physical body & spiritual worlds. Ceremonies are performed to communicate between the living and the spirits with the help of African traditional practices like the full moon Spell cast & African healing practices."
+      },
+      "services": {
+        "title": "Services Offered",
+        "subtitle": "The desire to improve various aspects of life has driven our team to perform all these services:",
+        "love": {
+          "title": "Love & Relationship Spells",
+          "items": ["Attraction", "To Be Loved", "To Be Given", "Good Luck"]
+        },
+        "cleansing": {
+          "title": "Cleansing & Offertory Ceremonies",
+          "content": "This is an essential part of healing services aimed at removing negative energies, bad souls, using African herbs and trees. These practices cleanse the mind, body & spirit."
+        },
+        "protection": {
+          "title": "Protection Spells"
+        },
+        "health": {
+          "title": "Health & Wellness Remedies",
+          "content": "Our Team aims at more than just the well-being of its Clients while using natural, organic ingredients and natural specimens from places like the source of the Nile (Bujagali Falls) waters and Organic tree specimens."
+        },
+        "ancestral": {
+          "title": "Connection to Ancestral Spirits",
+          "content": "Through prayers, fasting and rituals, they seek their wisdom & intervention in times of need, which focuses on bringing peace, healing & balance in one's life."
+        }
+      },
+      "divineHealing": {
+        "title": "Divine Healing Techniques",
+        "content": "This aspect of African traditional healing allows the healer to gain insight into the causes of problems and possible outcomes of their interventions such as:",
+        "techniques": ["The Godly & Candle Spell Reading", "Salt & River Bath", "Meditation & mindfulness"]
+      },
+      "personalizedTreatment": {
+        "title": "Personalised Treatment Plans",
+        "content": "Following the initial assessment, our healer shall create a personalized treatment plan tailored to your specific needs. Such may include: traditional rituals, herbal remedies, spiritual guidance."
+      },
+      "remoteHealing": {
+        "title": "Remote & In-Person Healing Options",
+        "content": "Our healer offers both remote & in-person healing options depending on cultures & backgrounds. Whether you are seeking guidance from a distance or in person, we are committed to providing effective support."
+      },
+      "followUp": {
+        "title": "Follow Up Support & Guidance",
+        "content": "After the initial consultation & treatment plan, our Team healer provides ongoing support & guidance. Follow-up support & guidance to ensure that you are on the path to healing. This will include regular check-in and communication, and site visits."
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "content": "For anyone seeking more classes and practices, healing and awakening services, can reach out to our experienced team who will be glad to provide professional, safe and personalized guidance & support regardless of your financial struggles."
+    },
+    "contactCta": "Contact Us for Healing Services"
+  }
+}

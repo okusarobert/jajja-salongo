@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Guérison de Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula est un guérisseur traditionnel renommé et lanceur de sorts, offrant des remèdes naturels et des conseils spirituels à travers l'Afrique et au-delà pour résoudre les défis de la vie.",
+    "cta": "Obtenir de l'aide"
+  },
+  "services": {
+    "title": "Services de Guérison Spirituelle",
+    "traditional": {
+      "title": "Guérison Traditionnelle et Sorts",
+      "description": "Jajja Salongo Ndawula offre une guérison traditionnelle puissante et des sorts pour divers défis de la vie."
+    },
+    "love": {
+      "title": "Sorts d'Amour",
+      "description": "Imaginez un sort d'amour qui pourrait ramener votre ex petit ami ou petite amie en quelques heures seulement. Essayez le sort d'amour de Jajja Salongo Ndawula"
+    },
+    "psychic": {
+      "title": "Lecture Psychique",
+      "description": "Déverrouillez les mystères du passé, du présent et du futur grâce à la lecture psychique, obtenez des aperçus sur la situation troublante à laquelle vous pourriez faire face"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "retry": "Réessayer"
+  },
+  "footer": {
+    "contact": "Contact",
+    "socials": "Réseaux Sociaux",
+    "helpButton": "Besoin d'aide? Chattez avec nous",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Tous droits réservés."
+  },
+  "gallery": {
+    "title": "Galerie de Guérison",
+    "description": "Explorez les pratiques de guérison traditionnelles et la sagesse spirituelle de Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Voix des Clients",
+    "quote": "Les sorts de Jajja Salongo Ndawula ont transformé ma vie. J'ai retrouvé mon amour perdu et j'ai vécu une guérison incroyable. Vraiment un guérisseur doué et une présence puissante!"
+  },
+  "servicesPage": {
+    "title": "Services de Guérison Spirituelle",
+    "description": "Jajja Salongo Ndawula offre des sorts puissants et des remèdes naturels pour l'amour, la protection et le succès.",
+    "services": {
+      "spellCasting": {
+        "title": "Lancement de Sorts Efficace",
+        "description": "Guérison traditionnelle et lancement de sorts utilisant des remèdes naturels pour aborder l'amour, la protection et le succès en Afrique de l'Est, Centrale et Australe, et au-delà."
+      },
+      "businessSuccess": {
+        "title": "Rituel de Succès Commercial",
+        "description": "Élevez votre entreprise vers de nouveaux sommets. Attirez les clients, augmentez les profits et aidez vos entreprises à prospérer sur des marchés concurrentiels."
+      },
+      "protection": {
+        "title": "Sorts d'Énergie Protectrice",
+        "description": "Dissipez les énergies négatives, protégez-vous du mal et brisez les malédictions pour assurer un environnement sûr et positif pour vous et vos proches."
+      },
+      "healing": {
+        "title": "Guérison Spirituelle",
+        "description": "Remèdes naturels puissants et conseils personnalisés pour un large éventail de défis de la vie."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Transformer Votre Vie?",
+      "description": "Contactez-nous pour une guérison traditionnelle authentique, des sorts efficaces et des conseils spirituels personnalisés.",
+      "button": "Chattez sur WhatsApp"
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Téléphone / WhatsApp",
+      "hours": "Heures",
+      "hoursValue": "9h – 18h"
+    }
+  },
+  "contactPage": {
+    "title": "Contactez-nous",
+    "description": "Contactez Jajja Salongo Ndawula pour des conseils spirituels, des services de guérison et des consultations personnalisées.",
+    "formTitle": "Envoyez-nous un Message"
+  },
+  "aboutPage": {
+    "title": "À Propos",
+    "subtitle": "Guérison de Jajja Salongo Ndawula",
+    "description": "Jajja Salongo Ndawula est un guérisseur traditionnel renommé, offrant des solutions spirituelles puissantes et des remèdes naturels en Afrique, aux États-Unis, au Royaume-Uni, en Australie et en Asie.",
+    "learnMore": "En Savoir Plus",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Guérisseur traditionnel et lanceur de sorts offrant des remèdes naturels pour divers défis de la vie.",
+    "servicesTitle": "Nos Services",
+    "services": {
+      "healing": {
+        "title": "Guérison et Conseils",
+        "description": "Nous fournissons des sorts d'amour, des lectures psychiques et des rituels de protection pour restaurer l'équilibre."
+      },
+      "global": {
+        "title": "Portée Mondiale",
+        "description": "Servir des clients en Afrique, aux États-Unis, au Royaume-Uni, en Australie et en Asie avec des solutions spirituelles puissantes."
+      }
+    },
+    "testimonialsTitle": "Commentaires des Clients",
+    "testimonials": {
+      "sarah": "Les sorts de Jajja Salongo Ndawula ont transformé ma vie ; j'ai trouvé l'amour et le succès au-delà des attentes.",
+      "michael": "La lecture psychique était précise et perspicace, me guidant à travers des moments difficiles."
+    },
+    "contact": {
+      "email": "Email",
+      "phone": "Téléphone / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Méthodes Traditionnelles de Guérison Africaine",
+    "subtitle": "48 Ans de Sagesse Spirituelle et d'Héritage Culturel",
+    "introduction": "Depuis 48 ans, Jaja Salongo Ndaula joue un rôle très important en offrant la sagesse spirituelle, la compréhension et l'éveil des différentes cultures africaines à travers la guérison traditionnelle et la pratique de sorts.",
+    "sections": {
+      "oldWays": {
+        "title": "Les Anciennes Méthodes Traditionnelles de Guérison Africaine",
+        "content": "Les anciennes méthodes de guérison traditionnelles Bantu et Bachwezi constituent un système complexe qui comprend la santé physique et le bien-être spirituel. Ces anciennes méthodes traditionnelles ont été transmises de génération en génération."
+      },
+      "origin": {
+        "title": "Origine et Signification Culturelle",
+        "content": "La méthode locale Bantu de guérison trouve ses racines dans le sud du continent africain qui a un effet spirituel et communautaire profond sur les sociétés africaines. Jaja Salongo Ndaula joue un rôle crucial dans le diagnostic et le traitement à travers ses pratiques spirituelles et ses pouvoirs psychiques et la pratique de sorts africains."
+      },
+      "knowledge": {
+        "title": "Connaissance Générationnelle et Compréhension",
+        "content": "Les guérisseurs traditionnels / culturels jouent un rôle énorme dans l'encadrement des jeunes générations pour maintenir les pratiques préservées et pures. Cela a aidé à enseigner aux jeunes générations les pratiques culturelles, les présentations, les offrandes, les sacrifices et la compréhension de la nature et de l'univers.",
+        "additional": "Souvent appelés en Afrique sorciers (Jaja), qui croient en l'interconnexion du corps physique et des mondes spirituels. Des cérémonies sont organisées pour communiquer entre les vivants et les esprits avec l'aide des pratiques traditionnelles africaines comme le sort de pleine lune et les pratiques de guérison africaines."
+      },
+      "services": {
+        "title": "Services Offerts",
+        "subtitle": "Le désir d'améliorer divers aspects de la vie a poussé notre équipe à effectuer tout cela:",
+        "love": {
+          "title": "Sorts d'Amour et de Relations",
+          "items": ["Attraction", "Être Aimé", "Recevoir", "Bonne Chance"]
+        },
+        "cleansing": {
+          "title": "Cérémonies de Purification et d'Offrande",
+          "content": "C'est une partie essentielle des services de guérison visant à éliminer les énergies négatives, les mauvaises âmes, en utilisant des herbes et des arbres africains. Ces pratiques purifient l'esprit, le corps et l'âme."
+        },
+        "protection": {
+          "title": "Sorts de Protection"
+        },
+        "health": {
+          "title": "Remèdes de Santé et de Bien-être",
+          "content": "Notre équipe vise plus que le bien-être de ses clients tout en utilisant des ingrédients naturels et biologiques et des spécimens naturels provenant d'endroits comme la source du Nil (chutes de Bujagali) et des spécimens d'arbres biologiques."
+        },
+        "ancestral": {
+          "title": "Connexion aux Esprits Ancestraux",
+          "content": "À travers les prières, le jeûne et les rituels, ils cherchent leur sagesse et leur intervention en temps de besoin, qui se concentre sur apporter la paix, la guérison et l'équilibre dans la vie."
+        }
+      },
+      "divineHealing": {
+        "title": "Techniques de Guérison Divine",
+        "content": "Cet aspect de la guérison traditionnelle africaine permet au guérisseur d'obtenir un aperçu des causes des problèmes et des résultats possibles de leurs interventions telles que:",
+        "techniques": ["La Lecture Divine et de Bougie", "Bain de Sel et de Rivière", "Méditation et pleine conscience"]
+      },
+      "personalizedTreatment": {
+        "title": "Plans de Traitement Personnalisés",
+        "content": "Suite à l'évaluation initiale, notre guérisseur créera un plan de traitement personnalisé adapté à vos besoins spécifiques. Cela peut inclure: des rituels traditionnels, des remèdes à base de plantes, des conseils spirituels."
+      },
+      "remoteHealing": {
+        "title": "Options de Guérison à Distance et en Personne",
+        "content": "Notre guérisseur offre des options de guérison à distance et en personne selon les cultures et les milieux. Que vous cherchiez des conseils à distance ou en personne, nous nous engageons à fournir un soutien efficace."
+      },
+      "followUp": {
+        "title": "Soutien et Conseils de Suivi",
+        "content": "Après la consultation initiale et le plan de traitement, notre guérisseur d'équipe fournit un soutien et des conseils continus. Soutien et conseils de suivi pour s'assurer que vous êtes sur la voie de la guérison. Cela comprendra des vérifications régulières et la communication, et des visites sur site."
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "content": "Pour toute personne cherchant plus de cours et de pratiques, de guérison et de services d'éveil, peut contacter notre équipe expérimentée qui sera heureuse de fournir des conseils et un soutien professionnels, sûrs et personnalisés indépendamment de vos difficultés financières."
+    },
+    "contactCta": "Contactez-nous pour les Services de Guérison"
+  }
+}

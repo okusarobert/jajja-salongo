@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Jajja Salongo Ndawula Sanación",
+    "description": "Jajja Salongo Ndawula es un renombrado sanador tradicional y hechicero, ofreciendo remedios naturales y guía espiritual en toda África y más allá para resolver los desafíos de la vida.",
+    "cta": "Obtener Ayuda"
+  },
+  "services": {
+    "title": "Servicios de Sanación Espiritual",
+    "traditional": {
+      "title": "Sanación Tradicional y Hechicería",
+      "description": "Jajja Salongo Ndawula ofrece sanación tradicional poderosa y hechicería para varios desafíos de la vida."
+    },
+    "love": {
+      "title": "Hechizos de Amor",
+      "description": "Imagina un hechizo de amor que podría traer de vuelta a tu ex-novio o ex-novia en solo unas pocas horas. Prueba los hechizos de amor de Jajja Salongo Ndawula"
+    },
+    "psychic": {
+      "title": "Lectura Psíquica",
+      "description": "Desvela los misterios del pasado, presente y futuro a través de la lectura psíquica, obtén perspectivas sobre situaciones perturbadoras que puedas estar enfrentando"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Intentar de nuevo"
+  },
+  "footer": {
+    "contact": "Contacto",
+    "socials": "Redes Sociales",
+    "helpButton": "¿Necesitas ayuda? Chatea con nosotros",
+    "copyright": "© 2018 Jajja Salongo Ndawula. Todos los derechos reservados."
+  },
+  "gallery": {
+    "title": "Galería de Sanación",
+    "description": "Explora las prácticas de sanación tradicional y sabiduría espiritual de Jajja Salongo Ndawula"
+  },
+  "testimonials": {
+    "title": "Testimonios de Clientes",
+    "quote": "Los hechizos de Jajja Salongo Ndawula transformaron mi vida. Recuperé mi amor perdido y experimenté sanación más allá de la creencia. ¡Verdaderamente un sanador talentoso y presencia poderosa!"
+  },
+  "servicesPage": {
+    "title": "Servicios de Sanación Espiritual",
+    "description": "Jajja Salongo Ndawula ofrece hechizos poderosos y remedios naturales para amor, protección y éxito.",
+    "services": {
+      "spellCasting": {
+        "title": "Hechicería Efectiva",
+        "description": "Sanación tradicional y hechicería usando remedios naturales para amor, protección y éxito en África Oriental, Central y del Sur y más allá."
+      },
+      "businessSuccess": {
+        "title": "Ritual de Éxito Empresarial",
+        "description": "Lleva tu negocio a nuevas alturas. Atrae clientes, aumenta ganancias y ayuda a tus emprendimientos a prosperar en mercados competitivos."
+      },
+      "protection": {
+        "title": "Hechizos de Energía Protectora",
+        "description": "Aleja energías negativas, protégete del daño y rompe maldiciones para asegurar un ambiente seguro y positivo para ti y tus seres queridos."
+      },
+      "healing": {
+        "title": "Sanación Espiritual",
+        "description": "Remedios naturales poderosos y guía personalizada para una variedad de desafíos de la vida."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para transformar tu vida?",
+      "description": "Contáctanos para sanación tradicional auténtica, hechizos efectivos y guía espiritual personalizada.",
+      "button": "Chatear en WhatsApp"
+    },
+    "contact": {
+      "email": "Correo electrónico",
+      "phone": "Teléfono / WhatsApp",
+      "hours": "Horarios",
+      "hoursValue": "9:00 – 18:00"
+    }
+  },
+  "contactPage": {
+    "title": "Contáctanos",
+    "description": "Contacta a Jajja Salongo Ndawula para guía espiritual, servicios de sanación y consultas personalizadas.",
+    "formTitle": "Envíanos un Mensaje"
+  },
+  "aboutPage": {
+    "title": "Acerca de",
+    "subtitle": "Jajja Salongo Ndawula Sanación",
+    "description": "Jajja Salongo Ndawula es un renombrado sanador tradicional ofreciendo soluciones espirituales poderosas y remedios naturales en África, EE.UU., Reino Unido, Australia y Asia.",
+    "learnMore": "Saber Más",
+    "aboutTitle": "Jajja Salongo Ndawula",
+    "aboutDescription": "Sanador tradicional y hechicero ofreciendo remedios naturales para varios desafíos de la vida.",
+    "servicesTitle": "Nuestros Servicios",
+    "services": {
+      "healing": {
+        "title": "Sanación y Guía",
+        "description": "Ofrecemos hechizos de amor, lectura psíquica y rituales de protección para restaurar el equilibrio."
+      },
+      "global": {
+        "title": "Alcance Global",
+        "description": "Sirviendo a clientes en África, EE.UU., Reino Unido, Australia y Asia con soluciones espirituales poderosas."
+      }
+    },
+    "testimonialsTitle": "Comentarios de Clientes",
+    "testimonials": {
+      "sarah": "Los hechizos de Jajja Salongo Ndawula transformaron mi vida; encontré amor y éxito más allá de las expectativas.",
+      "michael": "La lectura psíquica fue precisa y perspicaz, guiándome a través de tiempos difíciles."
+    },
+    "contact": {
+      "email": "Correo electrónico",
+      "phone": "Teléfono / WhatsApp"
+    }
+  },
+  "traditionalHealingPage": {
+    "title": "Métodos Tradicionales de Sanación Africana",
+    "subtitle": "48 años de sabiduría espiritual y herencia cultural",
+    "introduction": "Durante 48 años, Jaja Salongo Ndaula ha desempeñado un papel muy importante en proporcionar sabiduría espiritual, comprensión y despertar de varias culturas africanas a través de la sanación tradicional y hechicería.",
+    "sections": {
+      "oldWays": {
+        "title": "Los Antiguos Métodos Tradicionales de Sanación Africana",
+        "content": "Los antiguos métodos tradicionales de sanación Bantú y Bachwezi son un sistema complejo que abarca la salud física y el bienestar espiritual. Estos antiguos métodos tradicionales han sido transmitidos de tiempo en tiempo."
+      },
+      "origin": {
+        "title": "Origen y Significado Cultural",
+        "content": "El método de sanación nativo Bantú tiene sus raíces en el sur del continente africano, que tiene una profunda influencia espiritual y comunitaria en las sociedades africanas. Jaja Salongo Ndaula desempeña un papel crucial en el diagnóstico y tratamiento a través de sus prácticas espirituales y poderes psíquicos y el lanzamiento de hechizos africanos."
+      },
+      "knowledge": {
+        "title": "Conocimiento y Comprensión Generacional",
+        "content": "Los sanadores tradicionales/culturales desempeñan un papel enorme en nutrir a las generaciones más jóvenes para mantener las prácticas preservadas y puras. Esto ha ayudado a enseñar a las generaciones jóvenes sobre prácticas culturales, presentaciones, ofrendas, sacrificios y comprensión de la naturaleza y el universo.",
+        "additional": "A menudo referidos en África como brujos (Jaja) que creen en la interconexión del cuerpo físico y los mundos espirituales. Se realizan ceremonias para comunicarse entre los vivos y los espíritus con la ayuda de prácticas tradicionales africanas como hechizos de luna llena y prácticas de sanación africanas."
+      },
+      "services": {
+        "title": "Servicios Ofrecidos",
+        "subtitle": "El deseo de mejorar varios aspectos de la vida ha llevado a nuestro equipo a hacer todo esto:",
+        "love": {
+          "title": "Hechizos de Amor y Relación",
+          "items": ["Atracción", "Ser amado", "Ser dado", "Buena suerte"]
+        },
+        "cleansing": {
+          "title": "Ceremonias de Limpieza y Ofrenda",
+          "content": "Esta es una parte esencial de los servicios de sanación que tiene como objetivo eliminar energías negativas, almas malvadas usando hierbas y árboles africanos. Estas prácticas purifican mente, cuerpo y alma."
+        },
+        "protection": {
+          "title": "Hechizos de Protección"
+        },
+        "health": {
+          "title": "Remedios de Salud y Bienestar",
+          "content": "Nuestro equipo apunta a más que solo el bienestar de sus clientes mientras usa ingredientes naturales, orgánicos y especímenes naturales de lugares como la fuente del Nilo (Cataratas Bujagali) agua y especímenes de árboles orgánicos."
+        },
+        "ancestral": {
+          "title": "Conexión con Espíritus Ancestrales",
+          "content": "A través de oraciones, ayuno y rituales, buscan su sabiduría e intervención en tiempos de necesidad, enfocándose en traer paz, sanación y equilibrio a la vida de alguien."
+        }
+      },
+      "divineHealing": {
+        "title": "Técnicas de Sanación Divina",
+        "content": "Este aspecto de la sanación tradicional africana permite al sanador obtener perspectivas sobre las causas de los problemas y posibles resultados de sus intervenciones, como:",
+        "techniques": ["Lectura Divina y de Velas", "Baños de Sal y Río", "Meditación y Atención Plena"]
+      },
+      "personalizedTreatment": {
+        "title": "Planes de Tratamiento Personalizados",
+        "content": "Después de la evaluación inicial, nuestro sanador creará un plan de tratamiento personalizado adaptado a tus necesidades específicas. Esto puede incluir: rituales tradicionales, remedios herbales, guía espiritual."
+      },
+      "remoteHealing": {
+        "title": "Opciones de Sanación Remota y en Persona",
+        "content": "Nuestro sanador ofrece opciones de sanación tanto remotas como en persona dependiendo de las culturas y antecedentes. Ya sea que busques guía remotamente o en persona, estamos comprometidos a proporcionar apoyo efectivo."
+      },
+      "followUp": {
+        "title": "Apoyo y Guía de Seguimiento",
+        "content": "Después de la consulta inicial y el plan de tratamiento, nuestro sanador del equipo proporciona apoyo y guía continuos. Apoyo y guía de seguimiento para asegurar que estés en el camino de la sanación. Esto incluirá chequeos regulares y comunicación, así como visitas al sitio."
+      }
+    },
+    "conclusion": {
+      "title": "Conclusión",
+      "content": "Para cualquiera que busque más cursos y prácticas, servicios de sanación y despertar puede contactar a nuestro equipo experimentado que estará feliz de proporcionar guía y apoyo profesional, seguro y personalizado independientemente de sus dificultades financieras."
+    },
+    "contactCta": "Contáctanos para servicios de sanación"
+  }
+}
